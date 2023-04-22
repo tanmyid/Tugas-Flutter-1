@@ -1,6 +1,6 @@
 ## Tugas - Praktik Mandiri 1 - MOBILE PROGRAMMING
 
-[https://github.com/tanmyid/Tugas-Flutter-1/archive/refs/heads/main.zip](Download) ZIP file
+(Download)[https://github.com/tanmyid/Tugas-Flutter-1/archive/refs/heads/main.zip] ZIP file
 
 ## Setelah di download
 
